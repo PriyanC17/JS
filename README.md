@@ -17,4 +17,4 @@ The Simon Says game is a classic memory game where players must repeat a sequenc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/js-practice-projects.git
+   git clone https://github.com/PriyanC17/JS.git
