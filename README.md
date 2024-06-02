@@ -13,8 +13,6 @@ The Simon Says game is a classic memory game where players must repeat a sequenc
 - Sound effects for each button press
 - Increasing difficulty with each round
 
-## Getting Started
-
-1. Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/PriyanC17/JS.git
