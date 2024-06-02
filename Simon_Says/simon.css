@@ -16,19 +16,19 @@ body{
 }
 
 .green{
-    /* background-color: #76f86a; */
+    color: #6AAB54;
     background-color: #6AAB54;
 }
 .purple{
-    /* background-color: hsl(274, 100%, 68%); */
+    color: #9554AB;
     background-color: #9554AB;
 }
 .yellow{
-    /* background-color: #e2ff3e; */
+    color: #AB6954;
     background-color: #AB6954;
 }
 .red{
-    /* background-color:#ff2929; */
+    color:#5496AB;
     background-color:#5496AB;
 }
 .flash{
